@@ -602,6 +602,7 @@ section{
     border-radius: 8px;
     display: block;
     transition: transform 0.5s;
+    height: 400px;
 }
 .layer{
     width: 100%;
